@@ -1,0 +1,25 @@
+{
+  "ProjectName": "test_2.6MobileTesting",
+  "ProjectGuid": "21e9a1e8-9dc9-4a50-88a1-fc9cfeff903a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.test26MobileTesting",
+  "DisplayName": "test_2.6MobileTesting",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+	"2"
+  ],
+  "iOSBackgroundMode": [],
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "",
+  "WP8ProductID": "",
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "Framework": "MobileTesting",
+  "FrameworkVersion": "1.0"
+}
